@@ -7,12 +7,12 @@ Pengimplementasi web github dari https://github.com/rendiano12/PHP_Kasir-Restora
 Perubahan Tampilan Web
 1. Bagian Login
 
-Tampilan Awal:
+TAMPILAN AWAL
 
 ![image](https://github.com/belvajihan/PengkodeandanPemrograman-Sistem-Kasir-Restaurant/assets/152500318/aa4116a0-b836-47da-a2b5-3aa4905d521e)
 
 
-Tampilan setelah perubahan:
+TAMPILAN SETELAH PERUBAHAN
 
 ![image](https://github.com/belvajihan/PengkodeandanPemrograman-Sistem-Kasir-Restaurant/assets/152500318/c2c4b0e4-d745-4a64-a5a6-057e69582fb6)
 ![image](https://github.com/belvajihan/PengkodeandanPemrograman-Sistem-Kasir-Restaurant/assets/152500318/ec65a1e7-34c9-4cf8-9820-8a48d1c3c408)
@@ -20,16 +20,15 @@ Tampilan setelah perubahan:
 
 2. Tampilan Beranda
 
-Tampilan Awal:
+TAMPILAN AWAL
 
-![image](https://github.com/belvajihan/PengkodeandanPemrograman-Sistem-Kasir-Restaurant/assets/152500318/0dce9df1-cf8a-4ca9-b425-e5a17e1679fc)
 ![image](https://github.com/belvajihan/PengkodeandanPemrograman-Sistem-Kasir-Restaurant/assets/152500318/584a4a02-5f35-45c2-a00e-2f606bbcb18b)
 ![image](https://github.com/belvajihan/PengkodeandanPemrograman-Sistem-Kasir-Restaurant/assets/152500318/62e79189-346d-4f57-adca-87518d33b8d3)
+![image](https://github.com/belvajihan/PengkodeandanPemrograman-Sistem-Kasir-Restaurant/assets/152500318/0dce9df1-cf8a-4ca9-b425-e5a17e1679fc)
 
 
 
-
-Tampilan Setelah perubahan:
+TAMPILAN SETELAH PERUBAHAN
 
 ![image](https://github.com/belvajihan/PengkodeandanPemrograman-Sistem-Kasir-Restaurant/assets/152500318/cc72f6ee-d632-480a-a05a-06b2de6078ec)
 ![image](https://github.com/belvajihan/PengkodeandanPemrograman-Sistem-Kasir-Restaurant/assets/152500318/75ec37a7-ea95-4ebd-9702-544323912d2f)
@@ -50,41 +49,40 @@ Tampilan Setelah perubahan:
 
 3. Tampilan Bagian Pesanan
    
-   Tampilan awal:
+   TAMPILAN AWAL
 
 ![image](https://github.com/belvajihan/PengkodeandanPemrograman-Sistem-Kasir-Restaurant/assets/152500318/30d21832-9185-4aa0-9279-84cd748a66c4)
 
 
-   Tampilan Setelah Perubahan:
+  TAMPILAN SETELAH PERUBAHAN
    ![image](https://github.com/belvajihan/PengkodeandanPemrograman-Sistem-Kasir-Restaurant/assets/152500318/bb820a85-760c-4416-8287-a8e7ae46bccb)
 
 
 5. Tampilan Transaksi
-   Tampilan Awal:
+  TAMPILAN AWAL
 
    ![image](https://github.com/belvajihan/PengkodeandanPemrograman-Sistem-Kasir-Restaurant/assets/152500318/fd40b119-9a1e-4b85-8625-95717b9cde05)
 
-
-Tampilan Setelah perubahan:
+TAMPILAN SETELAH PERUBAHAN
 ![image](https://github.com/belvajihan/PengkodeandanPemrograman-Sistem-Kasir-Restaurant/assets/152500318/2e9580ba-e2c7-4627-8b21-9a075a73d418)
 
 
 
 6. Tampilan Struk Pembelanjaan
-Tampilan Awal:
+TAMPILAN AWAL
 ![image](https://github.com/belvajihan/PengkodeandanPemrograman-Sistem-Kasir-Restaurant/assets/152500318/b65a7246-b03d-49ed-af70-8613e28b74df)
 
 
-Tampilan Setelah perubahan:
+TAMPILAN SETELAH PERUBAHAN
 ![image](https://github.com/belvajihan/PengkodeandanPemrograman-Sistem-Kasir-Restaurant/assets/152500318/bf523749-c555-4cfb-bc81-f20cdf9e194a)
 7. Tampilan Logout
 
-Tampilan Awal:
+TAMPILAN AWAL
 
 ![image](https://github.com/belvajihan/PengkodeandanPemrograman-Sistem-Kasir-Restaurant/assets/152500318/a3d201cc-e556-4ac9-80c9-3bc302f719de)
 
 
-Tampilan Setelah perubahan:
+TAMPILAN SETELAH PERUBAHAN
 ![image](https://github.com/belvajihan/PengkodeandanPemrograman-Sistem-Kasir-Restaurant/assets/152500318/215c6ed6-16ca-4bf8-89a6-155d86d65af9)
 
 
