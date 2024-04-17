@@ -22,7 +22,6 @@ Tampilan setelah perubahan:
 
 Tampilan Awal:
 
-![image](https://github.com/belvajihan/PengkodeandanPemrograman-Sistem-Kasir-Restaurant/assets/152500318/ea7f0ff6-facf-43d1-80a6-6b8b67309799)
 ![image](https://github.com/belvajihan/PengkodeandanPemrograman-Sistem-Kasir-Restaurant/assets/152500318/0dce9df1-cf8a-4ca9-b425-e5a17e1679fc)
 ![image](https://github.com/belvajihan/PengkodeandanPemrograman-Sistem-Kasir-Restaurant/assets/152500318/584a4a02-5f35-45c2-a00e-2f606bbcb18b)
 ![image](https://github.com/belvajihan/PengkodeandanPemrograman-Sistem-Kasir-Restaurant/assets/152500318/62e79189-346d-4f57-adca-87518d33b8d3)
