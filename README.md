@@ -4,7 +4,9 @@ Belva Jihan Rasyid (12030122140318)
 Judul Github Sistem Kasir Restaurant Belva's Resto
 
 Pengimplementasi web github dari https://github.com/rendiano12/PHP_Kasir-Restoran
+
 Perubahan Tampilan Web
+
 1. Bagian Login
 
 TAMPILAN AWAL
@@ -49,32 +51,40 @@ TAMPILAN SETELAH PERUBAHAN
 
 3. Tampilan Bagian Pesanan
    
-   TAMPILAN AWAL
+TAMPILAN AWAL
 
 ![image](https://github.com/belvajihan/PengkodeandanPemrograman-Sistem-Kasir-Restaurant/assets/152500318/30d21832-9185-4aa0-9279-84cd748a66c4)
 
 
-  TAMPILAN SETELAH PERUBAHAN
-   ![image](https://github.com/belvajihan/PengkodeandanPemrograman-Sistem-Kasir-Restaurant/assets/152500318/bb820a85-760c-4416-8287-a8e7ae46bccb)
+TAMPILAN SETELAH PERUBAHAN
+  
+![image](https://github.com/belvajihan/PengkodeandanPemrograman-Sistem-Kasir-Restaurant/assets/152500318/bb820a85-760c-4416-8287-a8e7ae46bccb)
 
 
 5. Tampilan Transaksi
-  TAMPILAN AWAL
+   
+TAMPILAN AWAL
 
-   ![image](https://github.com/belvajihan/PengkodeandanPemrograman-Sistem-Kasir-Restaurant/assets/152500318/fd40b119-9a1e-4b85-8625-95717b9cde05)
+![image](https://github.com/belvajihan/PengkodeandanPemrograman-Sistem-Kasir-Restaurant/assets/152500318/fd40b119-9a1e-4b85-8625-95717b9cde05)
 
 TAMPILAN SETELAH PERUBAHAN
+
 ![image](https://github.com/belvajihan/PengkodeandanPemrograman-Sistem-Kasir-Restaurant/assets/152500318/2e9580ba-e2c7-4627-8b21-9a075a73d418)
 
 
 
 6. Tampilan Struk Pembelanjaan
+   
 TAMPILAN AWAL
+
 ![image](https://github.com/belvajihan/PengkodeandanPemrograman-Sistem-Kasir-Restaurant/assets/152500318/b65a7246-b03d-49ed-af70-8613e28b74df)
 
 
 TAMPILAN SETELAH PERUBAHAN
+
 ![image](https://github.com/belvajihan/PengkodeandanPemrograman-Sistem-Kasir-Restaurant/assets/152500318/bf523749-c555-4cfb-bc81-f20cdf9e194a)
+
+
 7. Tampilan Logout
 
 TAMPILAN AWAL
@@ -83,11 +93,13 @@ TAMPILAN AWAL
 
 
 TAMPILAN SETELAH PERUBAHAN
+
 ![image](https://github.com/belvajihan/PengkodeandanPemrograman-Sistem-Kasir-Restaurant/assets/152500318/215c6ed6-16ca-4bf8-89a6-155d86d65af9)
 
 
 
 ERD dari Sistem Kasir Restaurant Belva's Resto
+
 ![image](https://github.com/belvajihan/PengkodeandanPemrograman-Sistem-Kasir-Restaurant/assets/152500318/97c15ae1-01b5-4f8e-a21d-eaac4a2192e7)
 
 
