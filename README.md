@@ -67,10 +67,12 @@ Tampilan Setelah perubahan:
 Tampilan Awal:
 
 Tampilan Setelah perubahan:
-![Uploading image.png…]()
+![image](https://github.com/belvajihan/PengkodeandanPemrograman-Sistem-Kasir-Restaurant/assets/152500318/7a507cf1-a1a9-4c5d-9f36-6b0987d4e4e7)
 
 
 ERD dari Sistem Kasir Restaurant Belva's Resto
+![image](https://github.com/belvajihan/PengkodeandanPemrograman-Sistem-Kasir-Restaurant/assets/152500318/97c15ae1-01b5-4f8e-a21d-eaac4a2192e7)
+
 
 
 
