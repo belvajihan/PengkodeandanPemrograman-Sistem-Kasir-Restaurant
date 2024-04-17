@@ -33,6 +33,7 @@ Tampilan Setelah perubahan:
 ![image](https://github.com/belvajihan/PengkodeandanPemrograman-Sistem-Kasir-Restaurant/assets/152500318/05e704f9-9f64-4764-9c06-8b418657c403)
 ![image](https://github.com/belvajihan/PengkodeandanPemrograman-Sistem-Kasir-Restaurant/assets/152500318/279e8994-c9ef-4be0-bb3f-4f32f61407a0)
 ![image](https://github.com/belvajihan/PengkodeandanPemrograman-Sistem-Kasir-Restaurant/assets/152500318/3d878488-7241-482c-9bb1-efa91405912d)
+![image](https://github.com/belvajihan/PengkodeandanPemrograman-Sistem-Kasir-Restaurant/assets/152500318/e80e3015-f9ba-4e9a-9359-7e1e73894bef)
 
 
 
@@ -67,7 +68,8 @@ Tampilan Setelah perubahan:
 Tampilan Awal:
 
 Tampilan Setelah perubahan:
-![image](https://github.com/belvajihan/PengkodeandanPemrograman-Sistem-Kasir-Restaurant/assets/152500318/7a507cf1-a1a9-4c5d-9f36-6b0987d4e4e7)
+![image](https://github.com/belvajihan/PengkodeandanPemrograman-Sistem-Kasir-Restaurant/assets/152500318/215c6ed6-16ca-4bf8-89a6-155d86d65af9)
+
 
 
 ERD dari Sistem Kasir Restaurant Belva's Resto
