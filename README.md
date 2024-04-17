@@ -1,5 +1,10 @@
-Tugas Pemrograman dan Pengkodean FEB UNDIP 2023/2024
+Tugas Pemrograman dan Pengkodean S1 Akuntansi FEB UNDIP 2023/2024
+
 Belva Jihan Rasyid (12030122140318)
+
+Mata Kuliah Pemrograman dan Pengkodean
+
+Dosen Pengampu : Dr Totok Dewayanto
 
 Judul Github Sistem Kasir Restaurant Belva's Resto
 
